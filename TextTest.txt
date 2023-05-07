@@ -1,1 +1,4 @@
 Test Document
+
+Show Hidden Files
+Open the folder where you want to search for hidden files. Press the “Command” + “Shift” + “.” (period) keys at the same time. The hidden files will show up as translucent in the folder.
